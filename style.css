@@ -1,0 +1,36 @@
+* {
+    font-family: monospace, serif;
+}
+
+a {
+    margin-left: 330px;
+}
+
+body {
+    background-color: rgb(224, 196, 234);
+}
+
+h1, h2, p {
+    text-align: center;
+}
+
+img, .stars {
+    margin: auto;
+    display: block;
+    margin-bottom: 20px;
+}
+
+hr {
+    border: 2px solid black;
+    width: 450px;
+}
+
+div {
+    padding: 0px 200px;
+    margin-bottom: 20px;
+}
+
+.stars {
+    text-align: center;
+    font-size: 60px;
+}
